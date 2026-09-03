@@ -1,9 +1,7 @@
 # ⚡ SkillGap.ai
 
 > **The Intelligent Resume Matching & Upskilling Engine**  
-> Bridge the gap between developer profiles and job requirements with vector embeddings, skill differential analysis, and automated learning roadmaps.
-
----
+> Bridge the gap between developer profiles and job requirements with vector embeddings, skill differential analysis, and automated learning
 
 ## 🎯 Overview
 
